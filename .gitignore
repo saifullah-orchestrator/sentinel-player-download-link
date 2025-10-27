@@ -1,0 +1,70 @@
+# Sentinel Player Download Link Repository
+# This repo handles download redirects and link management
+
+# Windows null device file created by Git Bash
+nul
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Tt]humbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE/Editor files
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary development files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+
+# Python cache (if any scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Development scripts
+*.py
+*.bat
+*.sh
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Documentation (keep in docs/ folder only)
+/*.md
+!README.md
+!LICENSE.md
+
+# Node modules if needed
+node_modules/
